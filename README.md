@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 # 짧은 자기소개(Quick Intro)
 **이름(Name):** 노장현 (Janghyun Roh)
+
 **생년월일(Date of Birth):** 2000.06.09 (June 9th. 2000 )
+
 **거주지(Location):** 인천광역시 송도 (Song Do, Incheon. Korea)
+
 **성별(Pronoun):** 남자 (He/Him)
 
 # 안녕하세요! 👋
@@ -86,5 +89,6 @@ Here are some ideas to get you started:
 저의 깃허브를 방문해주셔서 감사합니다! 언제든지 협업이나 문의가 있으시면 연락해 주세요. 😊
 
 **이메일:** janghyun0609@gmail.com
+
 **LinkedIn:** [https://www.linkedin.com/in/%EC%9E%A5%ED%98%84-%EB%85%B8-98505029a/]
 

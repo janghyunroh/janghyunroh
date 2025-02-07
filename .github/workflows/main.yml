@@ -16,7 +16,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.README }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
-        run:
+        run: |
           git config user.name janghyunroh
           git config user.email janghyunroh@gmail.com
           git remote set-url origin https://github.com/janghyunroh/janghyunroh.git

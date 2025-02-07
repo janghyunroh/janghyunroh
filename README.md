@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 
 대학교 3학년이라는 늦은 시기에 인공지능의 재미에 빠져 진로를 결정한 컴퓨터공학, 인공지능공학 대학원생입니다! 
 인하대학교 컴퓨터공학과 4학년을 졸업하였으며, 인공지능과 자연어 처리(NLP), 언어모델에 깊은 관심을 가지고 있습니다. 한국어에 특화된 LLM과 개체명 인식(NER)과 오토인코더 기반 이상치탐지 알고리즘 개발 경험이 있습니다. 
-지금은 인하대학교 디지털트윈 연구실과 지능형모바일연구실에서 학부연구생 소속으로 연구를 진행 하였으며, 현재 GIST 광주과학기술원 AI대학원 지능정보시스템(IIS)연구실에서 연구를 진행 중입니다. 
+인하대학교 디지털트윈 연구실과 지능형모바일연구실에서 학부연구생 소속으로 연구를 진행 하였으며, 현재 GIST 광주과학기술원 AI대학원 지능정보시스템(IIS)연구실에서 연구를 진행 중입니다. 
 
 ## 관심 분야
 - **인공지능(AI)**
 - **기계 학습 및 심층 학습(Machine Learning & Deep Learning)**
 - **자연어 처리(NLP)**
 - **개체명 인식(NER)**
-- **언어모델(LLM)**
+- **거대대언어모델(LLM)**
 - **이상치탐지(Anomaly Detection)**
 - **모델 경량화**
 - **시멘틱 통신**
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
    - 개인 블로그 등 간단한 웹페이지 개발
 
 ## 보유 스킬
-- **프로그래밍 언어:** Python, Java, C++
+- **프로그래밍 언어:** Python, C++, Java
 - **머신 러닝 프레임워크:** TensorFlow, PyTorch, Keras, scikit-learn
 - **자연어 처리 툴킷:** NLTK, spaCy, Hugging Face Transformers
 - **데이터 분석 및 시각화:** Pandas, NumPy, Matplotlib, Seaborn

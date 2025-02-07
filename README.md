@@ -1,5 +1,3 @@
-
-
 <!--
 **janghyunroh/janghyunroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,24 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Contribution Summary
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
-# 짧은 자기소개(Quick Intro)
-**이름(Name):** 노장현 (Janghyun Roh)
-
-**생년월일(Date of Birth):** 2000.06.09 (June 9th. 2000 )
-
-**거주지(Location):** 인천광역시 송도 (Song Do, Incheon. Korea)
-
-**성별(Pronoun):** 남자 (He/Him)
+<!--![poster]()-->
 
 # 안녕하세요! 👋
+🌱저는 ML 엔지니어 / 데이터 엔지니어를 꿈꾸는 신입 개발자 **노장현(Brian Roh)**입니다.  
 
-대학교 3학년이라는 늦은 시기에 인공지능의 재미에 빠져 진로를 결정한 컴퓨터공학, 인공지능공학 대학원생입니다! 
-인하대학교 컴퓨터공학과 4학년을 졸업하였으며, 인공지능과 자연어 처리(NLP), 언어모델에 깊은 관심을 가지고 있습니다. 한국어에 특화된 LLM과 개체명 인식(NER)과 오토인코더 기반 이상치탐지 알고리즘 개발 경험이 있습니다. 
-인하대학교 디지털트윈 연구실과 지능형모바일연구실에서 학부연구생 소속으로 연구를 진행 하였으며, 현재 GIST 광주과학기술원 AI대학원 지능정보시스템(IIS)연구실에서 연구를 진행 중입니다. 
+🧠자연어 처리(NLP)와 거대대언어모델(LLM) 등 다양한 AI 분야에 열정을 가지고 있습니다. 
+
+👨‍🎓현재 광주과학기술원(GIST)의 지능정보시스템 연구실(IIS Lab)에서 석사 과정을 밟고 있습니다
+
+💻취미로 개인 블로그 개발을 위한 웹 개발을 진행 중입니다.
+
+## GitHub Status
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janghyunroh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=janghyunroh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janghyunroh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janghyunroh&theme=dracula&area=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=janghyunroh&theme=dracula&column=7&row=2&margin-w=10&margin-h=10&no-bg=false" height="150" alt="trophy graph"  />
+</div>
 
 ## 관심 분야
 - **인공지능(AI)**
@@ -42,6 +42,86 @@ Here are some ideas to get you started:
 - **이상치탐지(Anomaly Detection)**
 - **모델 경량화**
 - **시멘틱 통신**
+
+
+<h2 align="left">💻기술 스택(Tech Stack)</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="30" alt="spring logo"  />
+</div>
+
+
+
+<h2 align="left"></h2>
+
+## Contribution Summary
+
+![](./profile-3d-contrib/profile-night-green.svg)
+###
+
+## 학력
+- **서울영일고등학교 (2016 - 2018)**
+- **인하대학교, 컴퓨터공학과 (2019 - 2024)**
+- **광주과학기술원, AI대학원 (2025 - 현재)**
+
 
 ## 개인 및 협업 프로젝트
 1. **NER 시스템 개발 프로젝트**
@@ -67,13 +147,7 @@ Here are some ideas to get you started:
    - discord, 카카오톡 등 각종 채팅 시스템에 대한 챗봇 개발
    - 개인 블로그 등 간단한 웹페이지 개발
 
-## 보유 스킬
-- **프로그래밍 언어:** Python, C++, Java
-- **머신 러닝 프레임워크:** TensorFlow, PyTorch, Keras, scikit-learn
-- **자연어 처리 툴킷:** NLTK, spaCy, Hugging Face Transformers
-- **데이터 분석 및 시각화:** Pandas, NumPy, Matplotlib, Seaborn
-- **버전 관리:** Git, GitHub
-- **컨테이너 기술:** Docker, Kebernetes
+
 
 ## 기타 자격증 및 자기계발 경험
  - 인하대학교 소프트웨어공학(디지털트윈&학습) 연구실 학부연구생
@@ -90,17 +164,33 @@ Here are some ideas to get you started:
  - TOPCIT 472점 취득
  - 2년 반의 해외 거주 경험 존재(New Zealand, 2011 - 2013)
 
-## 학력
-- **서울영일고등학교 (2016 - 2018)**
-- **인하대학교, 컴퓨터공학과 (2019 - 2024)**
-- **광주과학기술원, AI대학원 (2025 - 현재)**
+# 
 
 대학 초반엔 학업과 학점 취득에 매진하였지만, 현재는 실무에 적용하고 프로젝트 진행에 도움될 수 있는 새로운 기술과 도구들을 공부 중입니다!
 항상 꾸준히 학습하고 성장하는 것을 목표로 하고 있습니다. 깃허브를 통해 다양한 프로젝트와 코드를 공유하며, 동료 개발자들과의 협업을 통해 더 나은 결과를 만들어가고자 합니다.
 
 저의 깃허브를 방문해주셔서 감사합니다! 언제든지 협업이나 문의가 있으시면 연락해 주세요. 😊
 
-**이메일:** janghyun0609@gmail.com
 
-**LinkedIn:** [https://www.linkedin.com/in/%EC%9E%A5%ED%98%84-%EB%85%B8-98505029a/]
 
+<h2 align="left">Contact</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/janghyunroh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:janghyun0609@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/%EC%9E%A5%ED%98%84-%EB%85%B8-98505029a/?trk=opento_sprofile_details" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://solved.ac/profile/janghyunroh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Baekjoon&logo=tutanota&label=&color=18428f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tutanota logo"  />
+  </a>
+  <a href="https://janghyunroh.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My%20Blog&logo=visualstudio&label=&color=00d58b&logoColor=White&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+  </a>
+</div>

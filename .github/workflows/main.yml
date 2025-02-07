@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: 
+  schedule: # 03:00 KST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -22,4 +22,4 @@ jobs:
           git remote set-url origin https://github.com/janghyunroh/janghyunroh.git
           git add -A .
           git commit -m "generated"
-          git push https://github.com/janghyunroh/janghyunroh.git
+          git push https://$GITHUB_TOKEN@github.com/janghyunroh/janghyunroh.git

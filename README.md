@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 안녕하세요! 👋
 🌱저는 ML 엔지니어 / 데이터 엔지니어를 꿈꾸는 신입 개발자 **노장현(Brian Roh)**입니다.  
 
-🧠자연어 처리(NLP)와 거대대언어모델(LLM) 등 다양한 AI 분야에 열정을 가지고 있습니다. 
+🧠자연어 처리(NLP)와 거대언어모델(LLM) 등 다양한 AI 분야에 열정을 가지고 있습니다. 
 
 👨‍🎓현재 광주과학기술원(GIST)의 지능정보시스템 연구실(IIS Lab)에서 석사 과정을 밟고 있습니다
 
@@ -33,21 +33,20 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app?username=janghyunroh&theme=dracula&column=7&row=2&margin-w=10&margin-h=10&no-bg=false" height="150" alt="trophy graph"  />
 </div>
 
-## 관심 분야
-- **인공지능(AI)**
+## 경험 분야
 - **기계 학습 및 심층 학습(Machine Learning & Deep Learning)**
 - **자연어 처리(NLP)**
+- **언어모델(LLM, SLM)**
 - **개체명 인식(NER)**
-- **거대대언어모델(LLM)**
 - **이상치탐지(Anomaly Detection)**
-- **모델 경량화**
-- **시멘틱 통신**
 
+## 관심 분야
+- **모델 경량화**
+- **디지털 트윈**
 
 <h2 align="left">💻기술 스택(Tech Stack)</h2>
 
-###
-
+##### 주력 기술(Advanced)
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -66,6 +65,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
+##### 중급 기술(Intermediate)
 <div align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
   <img width="12" />
@@ -88,6 +88,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
+##### 경험 기술(Experienced)
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="12" />
@@ -124,30 +125,30 @@ Here are some ideas to get you started:
 
 
 ## 개인 및 협업 프로젝트
-1. **NER 시스템 개발 프로젝트**
-   - SKT Brain 측에서 개발한 KoBERT를 fine-tuning하여 특정 분야에 특화된 한국어 텍스트에서 명명된 개체를 인식하는 모델을 개발 중입니다.
-   - 소속 연구실의 프로젝트이며, 모델 분석 및 데이터 전처리 보조를 맡고 있습니다. 
-   - 한국어 자연어 처리를 위해 KoBERT와 같은 한국어로 사전 훈련된 언어 모델을 활용하여 정확도를 높였습니다.
+1. **NER 시스템 개발 프로젝트(진행 중)**
+   - BERT계열 모델 중 한국어 처리에 특화된 모델을 fine-tuning하여 특정 분야에 특화된 한국어 텍스트에서 명명된 개체를 인식하는 모델을 개발 중입니다.
+   - 이전 소속 연구실의 프로젝트로, 모델 분석 및 데이터 전처리 보조와 NER 태깅 가이드라인 정립을 맡고 있습니다. 
+   - Domain-specific, Task-specific한 NER이다보니 깊은 문맥 정보를 요구하는 태그가 많아 여러 연구를 진행 중입니다. 
 
-2. **챗봇 개발 프로젝트**
+2. **챗봇 개발 프로젝트(진행 중)**
    - 자연어 이해(NLU)와 생성(NLG) 기술을 사용하여 대화형 AI 챗봇을 개인적으로 개발 중입니다.
    - LLaMA 모델 적용을 고려 중이며, 이를 위한 공부를 진행 중에 있습니다.
    - DeepSeek 모델의 등장으로 적용 모델을 변경할 예정입니다. 
   
 3. **센서 등의 실시간 데이터에 대한 inference 시스템 개발 프로젝트** 
    - 네트워크 연구실 학부연구생들과 함께 협업하여 진행한 프로젝트입니다.
-   - 실시간 데이터를 분석하여 이상치 처리 등의 작업을 수행합니다.
-   - 최종성과발표에서 컴퓨터공학 학장상, 벤처스타트업아카데미 학회장상을 수상하였습니다. 
+   - 모터에 부착된 센서의 실시간 데이터를 분석하여 이상치 처리 등의 작업을 수행합니다.
+   - AutoEncoder를 이용하여 Feature Engineering을 자동화하였습니다. 
+   - 최종성과발표에서 컴퓨터공학 학장상, 벤처스타트업아카데미 학회장상을 수상하였습니다.
+   - 추후 진동 데이터에 대한 FFT 모듈을 추가하여 고도화를 진행할 예정입니다. 
   
-4. **오픈소스 AVL Tree 오픈소스 라이브러리 개발 프로젝트**
+4. **오픈소스 AVL Tree 라이브러리 개발 프로젝트**
    - 오픈소스 라이브러리 개발의 워크플로우를 익혀보기 위해 진행한 간단한 toy project입니다.
    - C++ 기초 지식 및 Github를 이용한 다른 개발자들과의 협업 방식을 익힌 프로젝트입니다.
   
 5. **기타 toy project**
    - discord, 카카오톡 등 각종 채팅 시스템에 대한 챗봇 개발
    - 개인 블로그 등 간단한 웹페이지 개발
-
-
 
 ## 기타 자격증 및 자기계발 경험
  - 인하대학교 소프트웨어공학(디지털트윈&학습) 연구실 학부연구생
@@ -162,7 +163,7 @@ Here are some ideas to get you started:
  - SQLD 취득
  - TOEIC 960점 취득
  - TOPCIT 472점 취득
- - 2년 반의 해외 거주 경험 존재(New Zealand, 2011 - 2013)
+ - 2년 6개월의 해외 거주 경험 존재(New Zealand, 2011 - 2013)
 
 # 
 

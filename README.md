@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!--![poster]()-->
 
 # 안녕하세요! 👋
-🌱저는 ML 엔지니어 / 데이터 엔지니어를 꿈꾸는 신입 개발자 **노장현(Brian Roh)**입니다.  
+🌱저는 ML 엔지니어 / 데이터 엔지니어를 꿈꾸는 신입 개발자 **노장현**(**Brian** **Roh**)입니다.  
 
 🧠자연어 처리(NLP)와 거대언어모델(LLM) 등 다양한 AI 분야에 열정을 가지고 있습니다. 
 
@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 
 ## 경험 분야
 - **기계 학습 및 심층 학습(Machine Learning & Deep Learning)**
-- **자연어 처리(NLP)**
-- **언어모델(LLM, SLM)**
+- **자연어 처리(NLP)** 및 **언어모델(LM)**
 - **개체명 인식(NER)**
 - **이상치탐지(Anomaly Detection)**
 
@@ -120,8 +119,8 @@ Here are some ideas to get you started:
 
 ## 학력
 - **서울영일고등학교 (2016 - 2018)**
-- **인하대학교, 컴퓨터공학과 (2019 - 2024)**
-- **광주과학기술원, AI대학원 (2025 - 현재)**
+- **인하대학교 컴퓨터공학과(Inha Univ, B.S. in Computer Science) (2019 - 2024)**
+- **광주과학기술원 AI대학원(GIST, M.S. in AI Engineering) (2025 - 현재)**
 
 
 ## 개인 및 협업 프로젝트

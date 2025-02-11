@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 # 안녕하세요! 👋
 🌱저는 ML 엔지니어 / 데이터 엔지니어를 꿈꾸는 신입 개발자 **노장현**(**Brian** **Roh**)입니다.  
 
-🧠자연어 처리(NLP)와 거대언어모델(LLM) 등 다양한 AI 분야에 열정을 가지고 있습니다. 
+🧠언어모델(LM), 이상 탐지(AD), 모델 증류(Distilation) 등 다양한 AI 분야에 관심과 열정을 가지고 있습니다. 
 
-👨‍🎓현재 광주과학기술원(GIST)의 지능정보시스템 연구실(IIS Lab)에서 석사 과정을 밟고 있습니다
+👨‍🎓현재 광주과학기술원(GIST)의 지능정보시스템 연구실(IIS Lab)에서 석사 과정을 밟고 있습니다.
 
 💻취미로 개인 블로그 개발을 위한 웹 개발을 진행 중입니다.
 
@@ -33,15 +33,16 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app?username=janghyunroh&theme=dracula&column=7&row=2&margin-w=10&margin-h=10&no-bg=false" height="150" alt="trophy graph"  />
 </div>
 
-## 경험 분야
+## 주요 관심 분야
 - **기계 학습 및 심층 학습(Machine Learning & Deep Learning)**
 - **자연어 처리(NLP)** 및 **언어모델(LM)**
 - **개체명 인식(NER)**
 - **이상치탐지(Anomaly Detection)**
 
-## 관심 분야
-- **모델 경량화**
-- **디지털 트윈**
+## 경험 분야
+- **모델 경량화(Model Compression & Distilation)**
+- **디지털 트윈(Digital Twin)**
+- **강화학습(RL)**
 
 <h2 align="left">💻기술 스택(Tech Stack)</h2>
 

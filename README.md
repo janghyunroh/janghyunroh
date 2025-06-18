@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=janghyunroh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janghyunroh&theme=dracula&area=true" height="150" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=janghyunroh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janghyunroh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" hide="jupyter%20notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janghyunroh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <img src="https://github-profile-trophy.vercel.app?username=janghyunroh&theme=dracula&column=7&row=2&margin-w=10&margin-h=10&no-bg=false" height="150" alt="trophy graph"  />
 </div>
 

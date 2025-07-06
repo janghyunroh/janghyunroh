@@ -189,7 +189,7 @@ Here are some ideas to get you started:
   <a href="https://solved.ac/profile/janghyunroh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Baekjoon&logo=tutanota&label=&color=18428f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tutanota logo"  />
   </a>
-  <a href="https://janghyunroh.tistory.com/" target="_blank">
+  <a href="https://janghyunroh.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Blog&logo=visualstudio&label=&color=00d58b&logoColor=White&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
   </a>
 </div>

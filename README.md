@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 
 ## GitHub Status
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=janghyunroh&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=janghyunroh)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<div align="center">
+  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=janghyunroh&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=janghyunroh)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<\div>
 
 
 ## 주요 관심 분야

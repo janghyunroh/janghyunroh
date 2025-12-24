@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 안녕하세요! 👋
 🌱저는 ML 엔지니어 / 데이터 엔지니어를 꿈꾸는 신입 개발자 **노장현**(**Brian** **Roh**)입니다.  
 
-🧠언어모델(LM), 이상 탐지(AD), 모델 증류(Distilation) 등 다양한 AI 분야에 관심과 열정을 가지고 있습니다. 
+🧠언어모델(LM), 이상 탐지(AD), 시계열 데이터(Time-series) 등 다양한 AI 분야에 관심과 열정을 가지고 있습니다. 
 
 👨‍🎓현재 광주과학기술원(GIST)의 지능정보시스템 연구실(IIS Lab)에서 석사 과정을 밟고 있습니다.
 
@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 ## GitHub Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janghyunroh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janghyunroh&theme=dracula&area=true" height="150" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=janghyunroh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janghyunroh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=janghyunroh&theme=dracula&column=7&row=2&margin-w=10&margin-h=10&no-bg=false" height="150" alt="trophy graph"  />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janghyunroh&show_icons=true&theme=radical)
 </div>
 
 ## 주요 관심 분야

@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 ## GitHub Status
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=janghyunroh)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=janghyunroh&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=janghyunroh)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 
 ## 주요 관심 분야
 - **기계 학습 및 심층 학습(Machine Learning & Deep Learning)**

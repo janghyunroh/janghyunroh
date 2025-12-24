@@ -57,8 +57,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
@@ -121,6 +119,7 @@ Here are some ideas to get you started:
 - **서울영일고등학교 (2016 - 2018)**
 - **인하대학교 컴퓨터공학과(Inha Univ, B.S. in Computer Science) (2019 - 2024)**
 - **광주과학기술원 AI대학원(GIST, M.S. in AI Engineering) (2025 - 현재)**
+- **삼성전자 DX부문 DA사업부(Samsun Electronics Co., Ltd) (예정)**
 
 
 ## 개인 및 협업 프로젝트
@@ -129,30 +128,35 @@ Here are some ideas to get you started:
    - 이전 소속 연구실의 프로젝트로, 모델 분석 및 데이터 전처리 보조와 NER 태깅 가이드라인 정립을 맡고 있습니다. 
    - Domain-specific, Task-specific한 NER이다보니 깊은 문맥 정보를 요구하는 태그가 많아 여러 연구를 진행 중입니다.
    - 2025년 이후로 연구실을 떠나면서 더 이상의 프로젝트 진행은 보류되었습니다. 
-
-2. **챗봇 개발 프로젝트(중단)**
+  
+2. **센서 등의 실시간 데이터에 대한 inference 시스템 개발 프로젝트(완료)** 
+   - 네트워크 연구실 학부연구생들과 함께 협업하여 진행한 프로젝트입니다.
+   - 모터에 부착된 센서의 실시간 데이터를 분석하여 이상치 처리 등의 작업을 수행합니다.
+   - AutoEncoder를 이용하여 Feature Engineering을 자동화하였습니다. 
+   - 최종성과발표에서 컴퓨터공학 학장상, 벤처스타트업아카데미 학회장상을 수상하였습니다.
+   - 추후 진동 데이터에 대한 FFT 모듈을 추가하여 고도화를 진행할 예정입니다.
+  
+3. **챗봇 개발 프로젝트(중단)**
    - 자연어 이해(NLU)와 생성(NLG) 기술을 사용하여 대화형 AI 챗봇을 개인적으로 개발 중입니다.
    - LLaMA 모델 적용을 고려 중이며, 이를 위한 공부를 진행 중에 있습니다.
    - DeepSeek 모델의 등장으로 적용 모델을 변경할 예정입니다.
    - 단순한 챗봇 시스템의 한계를 느껴 중단하였으며, langchain과 RAG, 가능하면 MCP까지 결합하여 추후 다른 프로젝트에 적용할 예정입니다. 
   
-3. **센서 등의 실시간 데이터에 대한 inference 시스템 개발 프로젝트(완료)** 
-   - 네트워크 연구실 학부연구생들과 함께 협업하여 진행한 프로젝트입니다.
-   - 모터에 부착된 센서의 실시간 데이터를 분석하여 이상치 처리 등의 작업을 수행합니다.
-   - AutoEncoder를 이용하여 Feature Engineering을 자동화하였습니다. 
-   - 최종성과발표에서 컴퓨터공학 학장상, 벤처스타트업아카데미 학회장상을 수상하였습니다.
-   - 추후 진동 데이터에 대한 FFT 모듈을 추가하여 고도화를 진행할 예정입니다. 
-  
-4. **오픈소스 AVL Tree 라이브러리 개발 프로젝트**
+4. **오픈소스 AVL Tree 라이브러리 개발 프로젝트(완료)**
    - 오픈소스 라이브러리 개발의 워크플로우를 익혀보기 위해 진행한 간단한 toy project입니다.
    - C++ 기초 지식 및 Github를 이용한 다른 개발자들과의 협업 방식을 익힌 프로젝트입니다.
      
-5. **jekyll 블로그와 연동되는 RAG-based 블로그 초안 작성기**
- - 개인 블로그와 연동하여
+5. **jekyll 블로그와 연동되는 RAG-based 블로그 초안 작성기(진행)**
+   - 개인 블로그와 연동하여, 평소의 문체 스타일을 바로 반영해 초안을 작성하는 초안 생성기입니다.
+   - RAG 아키텍처를 구축해 저에 대한 Context 정보를 더 활용하도록 만듭니다. 
+   - 블로그 포스팅으로 Vector DB를 구축하였습니다.
+   - '문체'라는 모호한 특징을 LLM이 프롬프트 엔지니어링만으로 특정하기 어려워 하는 것을 발견하여, Retreieve하는 문서 구조를 계층적(Hierarchical)으로 수정 중에 있습니다. 
 
-6. ****
+6. **연구실 내부 프로젝트**
+   - 과기원 보안 상 공개가 어려운 기타 프로젝트를 진행 중에 있습니다.
+   - 시계열 데이터 및 시멘틱 통신과 관련된 연구가 주를 이룹니다. 
    
-7. **기타 toy project**
+8. **기타 toy project**
    - discord, 카카오톡 등 각종 채팅 시스템에 대한 챗봇 개발
    - 개인 블로그 등 간단한 웹페이지 개발
   

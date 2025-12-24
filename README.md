@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 ## 주요 관심 분야
 - **기계 학습 및 심층 학습(Machine Learning & Deep Learning)**
 - **자연어 처리(NLP)** 및 **언어모델(LM)**
-- **개체명 인식(NER)**
 - **이상치탐지(Anomaly Detection)**
+- **시계열 데이터(Time-Series)**
 
 ## 경험 분야
+- **개체명 인식(NER)**
 - **모델 경량화(Model Compression & Distilation)**
 - **디지털 트윈(Digital Twin)**
 - **강화학습(RL)**
